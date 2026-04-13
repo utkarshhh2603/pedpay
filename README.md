@@ -1,4 +1,4 @@
-pedpe_app
+PedPay_app
 A new Flutter project.
 
 Getting Started
